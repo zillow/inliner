@@ -13,7 +13,7 @@
     "jsdom": "0.10.1",
     "uglify-js": "1.2.2",
     "commander": "0.5.1",
-    "mime": "1.2.9",
+    "mime": "1.6.0",
     "xtend": "2.1.2"
   },
   "devDependencies": {
