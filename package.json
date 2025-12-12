@@ -14,7 +14,7 @@
     "uglify-js": "1.2.2",
     "commander": "0.5.1",
     "mime": "1.2.9",
-    "xtend": "2.1.2"
+    "xtend": "2.2.0"
   },
   "devDependencies": {
     "mocha": "~1.20.0",
